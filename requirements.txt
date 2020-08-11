@@ -1,0 +1,3 @@
+Flask
+flask-cors
+#ชื่อ lib ที่ต้องการจะลง
